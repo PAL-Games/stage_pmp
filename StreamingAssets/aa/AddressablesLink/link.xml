@@ -1,9 +1,9 @@
 <linker>
   <assembly fullname="Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
-    <type fullname="AnimationController" preserve="all" />
+    <type fullname="IdleCyclesManager" preserve="all" />
     <type fullname="Pimp.Characters.CharacterContentConfig" preserve="all" />
     <type fullname="Pimp.Characters.CharactersConfigs" preserve="all" />
-    <type fullname="Pimp.Characters.IdleCounter" preserve="all" />
+    <type fullname="Pimp.Characters.StateIdle" preserve="all" />
     <type fullname="Pimp.World.CardWorldView" preserve="all" />
     <type fullname="Pimp.World.GlobalMapView" preserve="all" />
     <type fullname="Pimp.World.RoomPreview" preserve="all" />
@@ -53,6 +53,7 @@
     <type fullname="UnityEngine.GameObject" preserve="all" />
     <type fullname="UnityEngine.Material" preserve="all" />
     <type fullname="UnityEngine.MeshRenderer" preserve="all" />
+    <type fullname="UnityEngine.MonoBehaviour" preserve="all" />
     <type fullname="UnityEngine.Object" preserve="all" />
     <type fullname="UnityEngine.RectTransform" preserve="all" />
     <type fullname="UnityEngine.Shader" preserve="all" />
