@@ -1,6 +1,7 @@
 <linker>
   <assembly fullname="Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
     <type fullname="IdleCyclesManager" preserve="all" />
+    <type fullname="Pimp.CameraBoundsValidator" preserve="all" />
     <type fullname="Pimp.Characters.CharacterContentConfig" preserve="all" />
     <type fullname="Pimp.Characters.CharactersConfigs" preserve="all" />
     <type fullname="Pimp.Characters.StateIdle" preserve="all" />
@@ -8,6 +9,7 @@
     <type fullname="Pimp.World.GlobalMapView" preserve="all" />
     <type fullname="Pimp.World.RoomPreview" preserve="all" />
     <type fullname="Pimp.World.RoomView" preserve="all" />
+    <type fullname="Pimp.AspectContainer" preserve="nothing" serialized="true" />
   </assembly>
   <assembly fullname="Unity.2D.Animation.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
     <type fullname="UnityEngine.U2D.Animation.SpriteSkin" preserve="all" />
@@ -56,6 +58,7 @@
     <type fullname="UnityEngine.MonoBehaviour" preserve="all" />
     <type fullname="UnityEngine.Object" preserve="all" />
     <type fullname="UnityEngine.RectTransform" preserve="all" />
+    <type fullname="UnityEngine.Rendering.SortingGroup" preserve="all" />
     <type fullname="UnityEngine.Shader" preserve="all" />
     <type fullname="UnityEngine.Sprite" preserve="all" />
     <type fullname="UnityEngine.SpriteRenderer" preserve="all" />
