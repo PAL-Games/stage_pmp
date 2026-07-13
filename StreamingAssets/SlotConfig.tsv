@@ -1,7 +1,7 @@
 Id	TargetSkill	unlockPrice
 a1.r1.slot1	PinkColor	0
 a1.r2.slot2	Cocktail	0
-a1.r2.slot1	Karaoke	1000
+a1.r2.slot1	Karaoke	10000
 a1.r3.slot1	TeddyBear	0
 a2.r1.slot1	PinkColor	0
 a2.r2.slot1	TeddyBear	0
