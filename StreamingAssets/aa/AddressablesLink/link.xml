@@ -5,6 +5,7 @@
     <type fullname="Pimp.Characters.CharacterContentConfig" preserve="all" />
     <type fullname="Pimp.Characters.CharactersConfigs" preserve="all" />
     <type fullname="Pimp.Characters.StateIdle" preserve="all" />
+    <type fullname="Pimp.CommonTools.AnimationWrapper" preserve="all" />
     <type fullname="Pimp.World.CardWorldView" preserve="all" />
     <type fullname="Pimp.World.GlobalMapView" preserve="all" />
     <type fullname="Pimp.World.RoomPreview" preserve="all" />
@@ -43,6 +44,7 @@
     <type fullname="TMPro.VertexGradient" preserve="nothing" serialized="true" />
   </assembly>
   <assembly fullname="UnityEngine.AnimationModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.Animation" preserve="all" />
     <type fullname="UnityEngine.AnimationClip" preserve="all" />
     <type fullname="UnityEngine.Animations.ParentConstraint" preserve="all" />
     <type fullname="UnityEngine.Animations.PositionConstraint" preserve="all" />
